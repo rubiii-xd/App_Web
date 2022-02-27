@@ -1,0 +1,45 @@
+h1 {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.placa {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logogeekstore {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+main {
+    background-color: rgb(244, 198, 255);
+}
+
+body {
+    background-color: rgb(255, 173, 224);
+}
+
+h2 {
+    font-size: 25;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h3 {
+    font-size: 20;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+li {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
